@@ -29,9 +29,6 @@ body {
     align-self: start;
     justify-self: center;
 }
-.inline-block {
-    display: inline-block;
-}
 .kmtc-logo .nps-logo{
     padding: 30px;
 }
