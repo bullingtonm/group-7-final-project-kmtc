@@ -17,7 +17,7 @@ body {
 }
 #grid {
     display: grid;
-    grid-template-columns: 150px 800px
+    grid-template-columns: 150px 900px
 }
 .container {
     width: 100% auto;
