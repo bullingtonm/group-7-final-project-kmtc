@@ -19,6 +19,9 @@ body {
     width: 100% auto;
     height: 75vh;
 }
+.inline-block {
+    display: block;
+}
 .block {
     display: block;
 }
