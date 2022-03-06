@@ -17,7 +17,7 @@ body {
 }
 #grid {
     display: grid;
-    grid-template-columns: 150px 400px
+    grid-template-columns: 150px 800px
 }
 .container {
     width: 100% auto;
@@ -26,6 +26,9 @@ body {
     align-content: space-between;
 }
 .kmtc-logo {
+    padding: 30px;
+}
+.nps-logo {
     padding: 30px;
 }
 .top-nav {
