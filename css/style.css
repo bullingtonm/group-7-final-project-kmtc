@@ -4,10 +4,12 @@ html, body, footer {
     margin: 0;
     padding: 0;
 }
+body {
+    font-family: 'Open Sans', sans-serif;
+}
 .header-bg-img {
     background-image: url("../images/header-home.png");
     height: 769px;
-    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
