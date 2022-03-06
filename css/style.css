@@ -19,10 +19,10 @@ body {
     width: 100% auto;
     height: 75vh;
 }
-.inline-block {
+.block {
     display: block;
 }
-.kmtc-logo {
+.kmtc-logo .nps-logo{
     padding: 30px;
 }
 .top-nav {
