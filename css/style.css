@@ -18,6 +18,9 @@ body {
 .container {
     width: 100% auto;
 }
+.kmtc-logo {
+    margin: 30px;
+}
 .top-nav {
     overflow: hidden;
     background-color: transparent;
