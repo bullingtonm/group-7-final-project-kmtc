@@ -39,7 +39,7 @@ body {
 .dropdown {
     float: left;
     overflow: hidden;
-    margin-right: 20px;
+    margin-right: 40px;
 }
 .dropdown .dropbtn {
     font-size: 18px;
