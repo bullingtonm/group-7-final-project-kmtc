@@ -23,7 +23,7 @@ body {
     display: grid;
     align-items: top;
     justify-items: flex-start;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: 0.5fr 1fr 1fr;
 }
 .grid .item:first-child {
     grid-column: 1/3;
