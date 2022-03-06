@@ -37,8 +37,8 @@ body {
     float: right;
     vertical-align: top;
     margin-top: 50px;
-    margin-right: 0;
-    width: 600px;
+    margin-right: 25px;
+    width: 700px;
 }
 .top-nav a {
     float: left;
