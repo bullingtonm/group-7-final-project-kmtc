@@ -18,14 +18,14 @@ body {
 .container {
     width: 100% auto;
 }
-.topnav {
+.top-nav {
     overflow: hidden;
     background-color: transparent;
     float: right;
     margin-top: 50px;
     margin-right: 25px;
 }
-.topnav a {
+.top-nav a {
     float: left;
     color: #2C4B1D;
     text-align: center;
@@ -49,7 +49,7 @@ body {
     font-family: inherit;
     margin: 0;
 }
-.navbar a:hover, .dropdown:hover .dropbtn {
+.top-nav a:hover, .dropdown:hover .dropbtn {
     border-top: 1px;
     border-top-color: #CC8A19;
 }
