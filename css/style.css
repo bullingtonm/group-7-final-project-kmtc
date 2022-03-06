@@ -21,6 +21,7 @@ body {
 }
 .grid {
     display: grid;
+    align-items: top;
     justify-items: flex-start;
     grid-template-columns: 1fr 2fr 1fr;
 }
