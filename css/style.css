@@ -18,8 +18,11 @@ body {
 .container {
     width: 100% auto;
 }
+.inline-block {
+    display: inline-block;
+}
 .kmtc-logo {
-    margin: 30px;
+    padding: 30px;
 }
 .top-nav {
     overflow: hidden;
