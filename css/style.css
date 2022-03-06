@@ -23,7 +23,9 @@ body {
     display: grid;
     align-items: top;
     justify-items: flex-start;
-    grid-template-columns: 0.5fr 1fr 1fr;
+    grid-template-areas:
+    '.kmtc-logo .top-nav'
+    '.nps-logo';
 }
 .grid .item:first-child {
     grid-column: 1/3;
