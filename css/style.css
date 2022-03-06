@@ -20,7 +20,7 @@ body {
     height: 75vh;
 }
 .inline-block {
-    display: inline-block;
+    display: block;
 }
 .kmtc-logo {
     padding: 30px;
