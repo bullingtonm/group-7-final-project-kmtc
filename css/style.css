@@ -36,9 +36,9 @@ body {
     background-color: transparent;
     float: right;
     vertical-align: top;
-    margin-top: 20px;
-    margin-right: 25px;
-    width: 800px;
+    margin-top: 50px;
+    margin-right: 0;
+    width: 600px;
 }
 .top-nav a {
     float: left;
