@@ -24,6 +24,7 @@ body {
     float: right;
     margin-top: 50px;
     margin-right: 25px;
+    font-size: 16px;
 }
 .top-nav a {
     float: left;
@@ -48,10 +49,6 @@ body {
     background-color: inherit;
     font-family: inherit;
     margin: 0;
-}
-.top-nav a:hover, .dropdown:hover .dropbtn {
-    border-top: 1px;
-    border-top-color: #CC8A19;
 }
 .dropdown-content {
     display: none;
