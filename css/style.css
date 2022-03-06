@@ -24,6 +24,7 @@ body {
     float: right;
     margin-top: 50px;
     margin-right: 25px;
+    width: 400px
 }
 .top-nav a {
     float: left;
