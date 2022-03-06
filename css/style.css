@@ -18,6 +18,7 @@ body {
 .container {
     width: 100% auto;
     height: auto;
+    vertical-align: top;
 }
 .inline-block {
     display: flex;
