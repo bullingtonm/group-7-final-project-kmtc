@@ -17,7 +17,7 @@ body {
 }
 #grid {
     display: grid;
-    grid-template-columns: 150px 1300px
+    grid-template-columns: 200px 850px
 }
 .container {
     width: 100% auto;
@@ -30,13 +30,14 @@ body {
 }
 .nps-logo {
     padding: 30px;
+    margin: auto;
 }
 .top-nav {
     overflow: hidden;
     background-color: transparent;
     float: right;
     vertical-align: top;
-    margin-top: 20px;
+    margin-top: 70px;
     margin-right: 25px;
     width: 800px;
 }
@@ -67,21 +68,21 @@ body {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgba(51,159,43,0.8);
+    background-color: rgba(204,138,25,0.8);
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
   }
   .dropdown-content a {
     float: none;
-    color: black;
+    color: white;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
   }
   .dropdown-content a:hover {
-    background-color: rgba(51,159,43,0.4);
+    background-color: rgba(204,138,25,0.9);
   }
   .dropdown:hover .dropdown-content {
     display: block;
