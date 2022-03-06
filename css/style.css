@@ -24,6 +24,9 @@ body {
 .kmtc-logo {
     padding: 30px;
 }
+.nps-logo {
+    vertical-align: bottom;
+}
 .top-nav {
     overflow: hidden;
     background-color: transparent;
