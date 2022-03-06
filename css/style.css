@@ -18,9 +18,11 @@ body {
 .container {
     width: 100% auto;
     height: 75vh;
+    display: flex;
+    flex-wrap: wrap;
 }
 .inline-block {
-    display: flex;
+    display: inline-block;
 }
 .kmtc-logo .nps-logo{
     padding: 30px;
