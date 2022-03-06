@@ -17,10 +17,10 @@ body {
 }
 #grid {
     display: grid;
-    grid-template-columns: 150px 1500px
+    grid-template-columns: 150px 800px
 }
 .container {
-    width: 100%;
+    width: 100% auto;
     height: 400px;
     justify-content: space-between;
     align-content: space-between;
@@ -36,7 +36,7 @@ body {
     background-color: transparent;
     float: right;
     vertical-align: top;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-right: 25px;
     width: 700px;
 }
