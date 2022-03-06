@@ -19,27 +19,18 @@ body {
     width: 100% auto;
     height: 75vh;
 }
-.grid {
-    display: grid;
-    align-items: top;
-    justify-items: flex-start;
-    grid-template-areas:
-    '.kmtc-logo .top-nav'
-    '.nps-logo';
+.inline-block {
+    display: flex;
 }
-.grid .item:first-child {
-    grid-column: 1/3;
-    align-items: start;
-    justify-self: left;
-}
-.kmtc-logo .nps-logo{
+.kmtc-logo {
     padding: 30px;
 }
 .top-nav {
     overflow: hidden;
     background-color: transparent;
     float: right;
-    margin-top: 50px;
+    vertical-align: top;
+    margin-top: 20px;
     margin-right: 25px;
     width: 500px auto;
 }
