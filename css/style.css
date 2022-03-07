@@ -74,7 +74,7 @@ body {
     z-index: 1;
     margin-left: 16px;
   }
-  .dropdown-content a {
+.dropdown-content a {
     float: none;
     font-size: 14px;
     color: white;
@@ -82,14 +82,14 @@ body {
     text-decoration: none;
     display: block;
     text-align: left;
-  }
-  .dropdown-content a:hover {
+    }
+.dropdown-content a:hover {
     background-color: rgba(51,159,43,0.7);
   }
-  .dropdown:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: block;
   }
-  .covid-banner {
+.covid-banner {
     background-color: rgb(60,36,141);
     color: white;
     height: 50px;
@@ -97,29 +97,42 @@ body {
     font-size: 18px;
     text-align: center;
     padding: 5px 10px 10px 10px;
+    margin: 0;
   }
-  .hero-info-grid {
-      display: grid;
-      grid-template-columns: auto auto auto;
+.hero-info-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 0;
   }
-  .hiking-tips {
-      background-image: url(../images/hiking-tips-bg-img.png);
-      color: rgb(204, 138, 25);
-      font: 'Open-Sans-500';
-      font-size: 20px;
-      text-align: left;
+.hiking-tips {
+    background-image: url(../images/hiking-tips-bg-img.png);
+    color: rgb(204, 138, 25);
+    font: 'Open-Sans-Medium';
+    font-size: 20px;
+    text-align: left;
   }
-  .volunteer {
+.volunteer {
     background-image: url(../images/volunteer-bg-img.png);
     color: rgb(204, 138, 25);
-    font: 'Open-Sans-500';
+    font: 'Open-Sans-Medium';
     text-align: center;
 }
 .volunteer.h2 {
     font-size: 20px;
-    font-family: 'Open-Sans-300';
+    font-family: 'Open-Sans-Light';
 }
 .volunteer.h1 {
     font-size: 26px;
-    font-family: 'Open-Sans-900';
+    font-family: 'Open-Sans-Bold';
+}
+.trail-workdays {
+    background-image: url(../images/work-day-bg-img.png);
+    color: rgb(204, 138, 25);
+    font: 'Open-Sans-Medium';
+    font-size: 20px;
+    text-align: right;
+  }
+.trail-workdays.h2 {
+    font-size: 20px;
+    font-family: 'Open-Sans-Bold';
 }
