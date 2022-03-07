@@ -114,7 +114,7 @@ body {
     background-size: cover;
     padding: 30px 200px 0px 50px;
     color: rgb(204, 138, 25);
-    font: 'Open-Sans-Medium';
+    font: 'Roboto-Medium';
     font-size: 26px;
     line-height:46px;
     text-align: left;
@@ -125,16 +125,18 @@ body {
     background-position: center;
     background-size: cover;
     color: white;
-    font: 'Open-Sans-Medium';
+    font: 'Roboto-Medium';
     text-align: center;
 }
 .volunteer h2 {
-    font-size: 26px;
-    font-family: 'Open-Sans-Light';
+    font-size: 46px;
+    padding: 46px;
+    font-family: 'Roboto-Light';
 }
 .volunteer h1 {
-    font-size: 36px;
-    font-family: 'Open-Sans-Bold';
+    font-size: 84px;
+    font-family: 'Roboto-Bold';
+    margin-bottom: 0;
 }
 .trail-workdays {
     background-image: url(../images/work-day-bg-img.png);
@@ -142,15 +144,15 @@ body {
     background-size: cover;
     padding: 30px 50px 0px 20px;
     color: rgb(204, 138, 25);
-    font: 'Open-Sans-Medium';
+    font: 'Roboto-Medium';
     text-align: right;
     line-height: 46px;
   }
 .trail-workdays h2 {
     font-size: 26px;
-    font-family: 'Open-Sans-Bold';
+    font-family: 'Roboto-Bold';
 }
 .trail-workdays h3 {
     font-size: 22px;
-    font-family: 'Open-Sans';
+    font-family: 'Roboto';
 }
