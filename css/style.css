@@ -127,6 +127,7 @@ body {
     color: white;
     font: 'Roboto-Medium';
     text-align: center;
+    line-height: 10px;
 }
 .volunteer h2 {
     font-size: 46px;
