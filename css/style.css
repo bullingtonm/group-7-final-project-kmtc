@@ -122,16 +122,17 @@ body {
 .volunteer {
     background-image: url(../images/volunteer-bg-img.png);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
     color: white;
     font: 'Open-Sans-Medium';
     text-align: center;
 }
-.volunteer.h2 {
+.volunteer h2 {
     font-size: 26px;
     font-family: 'Open-Sans-Light';
 }
-.volunteer.h1 {
+.volunteer h1 {
     font-size: 36px;
     font-family: 'Open-Sans-Bold';
 }
@@ -145,11 +146,11 @@ body {
     text-align: right;
     line-height: 46px;
   }
-.trail-workdays.h2 {
+.trail-workdays h2 {
     font-size: 26px;
     font-family: 'Open-Sans-Bold';
 }
-.trail-workdays.h3 {
+.trail-workdays h3 {
     font-size: 22px;
     font-family: 'Open-Sans';
 }
