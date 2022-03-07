@@ -89,3 +89,35 @@ body {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+  .covid-banner {
+    background-color: rgb(6,36,141);
+    color: white;
+    height: 50px;
+    font-family: inherit;
+    font-size: 18px;
+    text-align: center;
+    margin: 5px 10px 10px 10px;
+  }
+  .hero-info-grid {
+      display: grid;
+      grid-template-columns: auto auto auto;
+  }
+  .hiking-tips {
+      background-image: url(../images/hiking-tips-bg-img.png);
+      color: rgb(204, 138, 25);
+      font: 'Open-Sans-500';
+      font-size: 20px;
+      text-align: left;
+  }
+  .volunteer {
+    background-image: url(../images/volunteer-bg-img.png);
+    color: rgb(204, 138, 25);
+    font: 'Open-Sans-500';
+    text-align: center;
+}
+.volunteer.h2 {
+    font-size: 20px;
+}
+.volunteer.h1 {
+    font-size: 26px;
+}
