@@ -101,42 +101,51 @@ body {
   }
 .hero-info-grid {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 300px 300px 300px;
     margin: 0;
   }
   .item {
-      height: 300px;
+      height: 250px;
   }
 .hiking-tips {
     background-image: url(../images/hiking-tips-bg-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 200px 0px 50px;
     color: rgb(204, 138, 25);
     font: 'Open-Sans-Medium';
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 26px;
+    line-height:46px;
     text-align: left;
   }
 .volunteer {
     background-image: url(../images/volunteer-bg-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     color: rgb(204, 138, 25);
     font: 'Open-Sans-Medium';
     text-align: center;
 }
 .volunteer.h2 {
-    font-size: 20px;
+    font-size: 26px;
     font-family: 'Open-Sans-Light';
 }
 .volunteer.h1 {
-    font-size: 26px;
+    font-size: 36px;
     font-family: 'Open-Sans-Bold';
 }
 .trail-workdays {
     background-image: url(../images/work-day-bg-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 200px 0px 50px;
     color: rgb(204, 138, 25);
     font: 'Open-Sans-Medium';
-    font-size: 20px;
+    font-size: 26px;
     text-align: right;
+    line-height: 46px;
   }
 .trail-workdays.h2 {
-    font-size: 20px;
+    font-size: 26px;
     font-family: 'Open-Sans-Bold';
 }
