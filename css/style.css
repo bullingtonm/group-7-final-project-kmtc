@@ -127,7 +127,7 @@ body {
     color: white;
     font: 'Roboto-Medium';
     text-align: center;
-    line-height: 10px;
+    line-height: 46px;
 }
 .volunteer h2 {
     font-size: 46px;
@@ -150,10 +150,10 @@ body {
     line-height: 46px;
   }
 .trail-workdays h2 {
-    font-size: 26px;
+    font-size: 46px;
     font-family: 'Roboto-Bold';
 }
 .trail-workdays h3 {
-    font-size: 22px;
+    font-size: 32px;
     font-family: 'Roboto';
 }
