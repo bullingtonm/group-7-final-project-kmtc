@@ -5,7 +5,7 @@ html, body, footer {
     padding: 0;
 }
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .header-bg-img {
     background-image: url("../images/header-home.png");
@@ -140,7 +140,7 @@ body {
     background-image: url(../images/work-day-bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 30px 50px 0px 200px;
+    padding: 30px 50px 0px 20px;
     color: rgb(204, 138, 25);
     font: 'Open-Sans-Medium';
     text-align: right;
