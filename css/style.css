@@ -99,6 +99,13 @@ body {
     padding: 5px 10px 10px 10px;
     margin: 0;
   }
+  .covid-banner a {
+    color: white;
+    text-decoration: none;
+  }
+  .covid-banner a:hover {
+      color: rgb(204, 138, 25);
+  }
 .hero-info-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
