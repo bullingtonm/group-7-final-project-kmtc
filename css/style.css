@@ -102,7 +102,7 @@ body {
 .hero-info-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    height: 250px;
+    height: 260px;
     margin: 0;
     padding: 0;
   }
@@ -142,17 +142,18 @@ body {
     background-image: url(../images/work-day-bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 30px 50px 0px 20px;
+    padding: 0px 50px 0px 20px;
     color: rgb(204, 138, 25);
-    font: 'Roboto-Medium';
     text-align: right;
-    line-height: 46px;
   }
 .trail-workdays h2 {
     font-size: 46px;
-    font-family: 'Roboto-Bold';
+    font-weight: 700;
+    margin-bottom: 10px;
 }
 .trail-workdays h3 {
     font-size: 32px;
-    font-family: 'Roboto';
+    font-weight: 400;
+    margin-top: 0px;
+    padding-left: 120px;
 }
