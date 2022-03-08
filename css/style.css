@@ -121,8 +121,7 @@ body {
     padding: 30px 200px 0px 50px;
     color: rgb(204, 138, 25);
     font: 'Roboto-Medium';
-    font-size: 26px;
-    line-height:46px;
+    font-size: 30px;
     text-align: left;
   }
 .volunteer {
@@ -137,7 +136,8 @@ body {
 }
 .volunteer h2 {
     font-size: 46px;
-    padding-top: 46px;
+    padding-top: 30px;
+    margin-bottom: 14px;
     font-weight: 500;
 }
 .volunteer h1 {
