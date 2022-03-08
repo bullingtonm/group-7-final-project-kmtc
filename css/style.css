@@ -17,7 +17,7 @@ body {
 }
 #grid {
     display: grid;
-    grid-template-columns: 200px 900px
+    grid-template-columns: 200px 840px
 }
 .container {
     width: 100% auto;
@@ -118,7 +118,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding: 30px 200px 0px 50px;
+    padding: 20px 200px 0px 50px;
     color: rgb(204, 138, 25);
     font: 'Roboto-Medium';
     font-size: 30px;
@@ -136,7 +136,7 @@ body {
 }
 .volunteer h2 {
     font-size: 46px;
-    padding-top: 30px;
+    padding-top: 20px;
     margin-bottom: 20px;
     font-weight: 300;
 }
