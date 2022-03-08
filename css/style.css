@@ -137,8 +137,8 @@ body {
 .volunteer h2 {
     font-size: 46px;
     padding-top: 30px;
-    margin-bottom: 14px;
-    font-weight: 500;
+    margin-bottom: 20px;
+    font-weight: 300;
 }
 .volunteer h1 {
     font-size: 84px;
@@ -149,7 +149,7 @@ body {
     background-image: url(../images/work-day-bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 0px 50px 0px 20px;
+    padding: 20px 50px 0px 20px;
     color: rgb(204, 138, 25);
     text-align: right;
   }
@@ -159,8 +159,8 @@ body {
     margin-bottom: 10px;
 }
 .trail-workdays h3 {
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 400;
     margin-top: 0px;
-    padding-left: 120px;
+    padding-left: 200px;
 }
