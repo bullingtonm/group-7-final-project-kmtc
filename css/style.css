@@ -102,16 +102,15 @@ body {
 .hero-info-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    height: 250px;
     margin: 0;
     padding: 0;
-  }
-  .item {
-      height: 250px;
   }
 .hiking-tips {
     background-image: url(../images/hiking-tips-bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     padding: 30px 200px 0px 50px;
     color: rgb(204, 138, 25);
     font: 'Roboto-Medium';
@@ -131,13 +130,13 @@ body {
 }
 .volunteer h2 {
     font-size: 46px;
-    padding: 46px;
-    font-family: 'Roboto-Light';
+    padding-top: 46px;
+    font-weight: 500;
 }
 .volunteer h1 {
     font-size: 84px;
-    font-family: 'Roboto-Bold';
-    margin-bottom: 0;
+    font-weight: 900;
+    margin: 0;
 }
 .trail-workdays {
     background-image: url(../images/work-day-bg-img.png);
