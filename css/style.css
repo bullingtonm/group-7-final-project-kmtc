@@ -166,7 +166,7 @@ body {
 }
 .about-workdays {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 400px 800px;
     height: 260px;
     margin: 0;
     padding: 0;
