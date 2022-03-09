@@ -193,6 +193,11 @@ footer {
     grid-template-columns: 1226px 124px;
     background-color: rgb(190, 183, 150);
 }
+.footer-content {
+    font-size: 20px;
+    color: rgb(44,75,29);
+    line-height: 24px;
+}
 #icons a {
     padding: 10px;
 }
