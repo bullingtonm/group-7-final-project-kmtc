@@ -168,24 +168,23 @@ body {
 .about-workdays {
     display: grid;
     grid-template-columns: 680px 700px;
-    height: 260px;
     margin: 0;
     padding: 0;
   }
 .trail-days-title h3 {
-    padding: 80px 0px 0px 50px;
-    font-weight: 400;
     font-size: 20px;
+    font-weight: 400;
+    padding: 80px 0px 0px 50px;
 }
 .trail-days-title h1 {
-    padding: 10px 0px 0px 50px;
-    margin: 0;
+    font-size: 40px;
     font-weight: 700;
-    font-size: 20px;
     color: rgb(204, 138, 25);
+    padding: 10px 0px 0px 50px;
+    margin: 0px;
 }
 #trail-days {
+    font-size: 18px;
+    line-height: 24px;
     padding: 40px 30px 40px 20px;
-    font-size: 40px;
-    line-height: 18px;
 }
