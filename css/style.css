@@ -208,7 +208,7 @@ footer {
 .footer-nav {
     padding-top: 30px;
 }
-.footer-nav a:link, a:visited {
+.footer-nav a:link {
     font-size: 17px;
     color: inherit;
     font-weight: 500;
