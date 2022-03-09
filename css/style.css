@@ -187,6 +187,7 @@ body {
 #trail-days-p {
     font-size: 20px;
     line-height: 26px;
+    line-break: normal;
     padding: 40px 20px 40px 20px;
 }
 footer {
