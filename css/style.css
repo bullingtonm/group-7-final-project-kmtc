@@ -188,3 +188,11 @@ body {
     line-height: 24px;
     padding: 40px 30px 40px 20px;
 }
+footer {
+    display: grid;
+    grid-template-columns: 1226px 124px;
+    background-color: rgb(190, 183, 150);
+}
+#icons a {
+    padding: 10px;
+}
