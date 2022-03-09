@@ -215,6 +215,9 @@ footer {
     text-decoration: none;
     padding-right: 10px;
 }
+.footer-nav a:hover{
+    color: rgb(51,159,43;
+}
 .social {
     margin-top: 10px;
 }
