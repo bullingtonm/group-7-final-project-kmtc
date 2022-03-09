@@ -137,31 +137,32 @@ body {
 }
 .volunteer h2 {
     font-size: 46px;
-    padding-top: 20px;
+    padding-top: 24px;
     margin-bottom: 20px;
     font-weight: 300;
 }
 .volunteer h1 {
     font-size: 84px;
     font-weight: 900;
-    margin: 0;
+    margin: 0px;
 }
 .trail-workdays {
     background-image: url(../images/work-day-bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20px 50px 0px 20px;
-    color: rgb(204, 138, 25);
     text-align: right;
   }
 .trail-workdays h2 {
     font-size: 46px;
     font-weight: 700;
+    color: rgb(204, 138, 25);
     margin-bottom: 10px;
 }
 .trail-workdays h3 {
     font-size: 28px;
     font-weight: 400;
+    color: white;
     margin-top: 0px;
     padding-left: 200px;
 }
