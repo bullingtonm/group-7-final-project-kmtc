@@ -202,6 +202,12 @@ footer {
     color: rgb(44,75,29);
     line-height: 24px;
 }
+.footer-content p {
+    line-height: 6px;
+}
+.footer-nav {
+    padding-top: 30px;
+}
 #icons a {
     padding: 10px;
 }
