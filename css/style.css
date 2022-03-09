@@ -192,8 +192,9 @@ body {
 }
 footer {
     display: grid;
-    grid-template-columns: 1226px 124px;
+    grid-template-columns: 1216px 124px;
     background-color: rgb(190, 183, 150);
+    padding: 40px 0px 50px 50px;
 }
 .footer-content {
     font-size: 20px;
