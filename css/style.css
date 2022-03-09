@@ -172,12 +172,12 @@ body {
     padding: 0;
   }
 .trail-days-title h3 {
-    font-size: 20px;
-    font-weight: 400;
-    padding: 80px 0px 0px 50px;
+    font-size: 28px;
+    font-weight: 300;
+    padding: 40px 0px 0px 50px;
 }
 .trail-days-title h1 {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 700;
     color: rgb(204, 138, 25);
     padding: 10px 0px 0px 50px;
