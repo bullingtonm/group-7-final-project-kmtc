@@ -215,6 +215,9 @@ footer {
     text-decoration: none;
     padding-right: 10px;
 }
+.social {
+    margin-top: 10px;
+}
 #icons a {
     padding: 10px;
 }
