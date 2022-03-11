@@ -234,3 +234,10 @@ footer {
     line-break: normal;
     padding: 0px 20px 0px 20px;
 }
+.the-board {
+    background-image: url(../images/meet-the-board-bg-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: auto 50px auto 0px;
+    text-align: right;
+  }
