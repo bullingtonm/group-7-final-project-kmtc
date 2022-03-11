@@ -243,7 +243,7 @@ footer {
     color: rgb(190, 183, 150);
     font-weight: 400;
     text-align: right;
-    vertical-align: middle;
+    justify-content: middle;
     margin: 0px;
     padding-right: 50px;
   }
