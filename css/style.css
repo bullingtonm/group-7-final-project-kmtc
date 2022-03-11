@@ -240,14 +240,20 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
-    text-align: right;
-    align-self: right;
-    margin: 0px;
-    padding-right: 50px;
+    padding: 0px 50px 0px 0px;
   }
-.the-board h3 {
-    font-size: 60px;
+.the-board a {
+    font-size: 50px;
     color: rgb(190, 183, 150);
     font-weight: 400;
-    margin: auto;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: right;
+    align-self: center;
+    margin-right: 100px;
+  }
+  .the-board a:hover {
+    font-size: 51px;  
+    font-weight: 500;
+    color: rgb(204, 138, 25);
   }
