@@ -238,6 +238,9 @@ footer {
     background-image: url(../images/meet-the-board-bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: auto 50px auto 0px;
+    height: auto;
+    color: rgb(190, 183, 150);
+    font-weight: 400;
     text-align: right;
+    padding-right: 50px;
   }
