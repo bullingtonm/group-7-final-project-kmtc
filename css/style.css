@@ -240,11 +240,13 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
-    font-size: 60px;
-    color: rgb(190, 183, 150);
-    font-weight: 400;
     text-align: right;
     align-self: center;
     margin: 0px;
     padding-right: 50px;
+  }
+.the-board h3 {
+    font-size: 60px;
+    color: rgb(190, 183, 150);
+    font-weight: 400;
   }
