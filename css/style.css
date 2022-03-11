@@ -167,18 +167,18 @@ body {
     margin-top: 0px;
     padding-left: 200px;
 }
-.about-workdays, .mission-statement {
+.about-workdays, .mission-statement, .we-need-you {
     display: grid;
     grid-template-columns: 700px 700px;
     padding: 40px 0px 40px 0px;
   }
-.trail-days-title h3, .mission-statement h3 {
+.trail-days-title h3, .mission-statement h3, .we-need-you h3 {
     font-size: 28px;
     font-weight: 300;
     padding: 14px 0px 0px 50px;
     margin: 0px;
 }
-.trail-days-title h1, .mission-statement h1 {
+.trail-days-title h1, .mission-statement h1, .we-need-you h1 {
     font-size: 50px;
     font-weight: 700;
     color: rgb(204, 138, 25);
@@ -228,7 +228,7 @@ footer {
 
 /* About Us - CSS */
 
-#mission-statement-p, li {
+#mission-statement-p, #we-need-you-p, li {
     font-size: 18px;
     line-height: 24px;
     line-break: normal;
@@ -256,4 +256,10 @@ footer {
     font-size: 51px;  
     font-weight: 500;
     color: rgb(204, 138, 25);
+  }
+
+  /* Get Involved - CSS */
+
+  .we-need-you h3 {
+      padding-right: 40px;
   }
