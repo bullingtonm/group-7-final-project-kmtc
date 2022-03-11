@@ -100,11 +100,11 @@ body {
     padding: 5px 10px 10px 10px;
     margin: 0;
   }
-  .covid-banner a {
+.covid-banner a {
     color: white;
     text-decoration: none;
   }
-  .covid-banner a:hover {
+.covid-banner a:hover {
       color: rgb(204, 138, 25);
   }
 .hero-info-grid {
@@ -223,4 +223,31 @@ footer {
 }
 #icons a {
     padding: 10px;
+}
+
+/* About Us - CSS */
+
+.mission-statement {
+    display: grid;
+    grid-template-columns: 700px 700px;
+    padding: 40px 0px 40px 0px;
+  }
+.mission-statement h3 {
+    font-size: 28px;
+    font-weight: 300;
+    padding: 14px 0px 0px 50px;
+    margin: 0px;
+}
+.mission-statement h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(204, 138, 25);
+    padding: 4px 0px 0px 50px;
+    margin: 0px;
+}
+#mission-statement-p {
+    font-size: 18px;
+    line-height: 24px;
+    line-break: normal;
+    padding: 0px 20px 0px 20px;
 }
