@@ -240,6 +240,8 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
+  }
+.the-board h3 {
     font-size: 60px;
     color: rgb(190, 183, 150);
     font-weight: 400;
