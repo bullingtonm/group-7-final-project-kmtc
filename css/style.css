@@ -245,7 +245,7 @@ footer {
     padding: 4px 0px 0px 50px;
     margin: 0px;
 }
-#mission-statement-p {
+#mission-statement-p, li {
     font-size: 18px;
     line-height: 24px;
     line-break: normal;
