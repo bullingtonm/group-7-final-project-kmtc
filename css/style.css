@@ -235,7 +235,7 @@ footer {
     padding: 0px 20px 0px 20px;
 }
 .the-board {
-    display: block;
+    display: grid;
     background-image: url(../images/meet-the-board-bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
