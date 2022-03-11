@@ -241,7 +241,7 @@ footer {
     background-size: cover;
     height: 300px;
     text-align: right;
-    align-self: center;
+    align-self: right;
     margin: 0px;
     padding-right: 50px;
   }
@@ -249,5 +249,5 @@ footer {
     font-size: 60px;
     color: rgb(190, 183, 150);
     font-weight: 400;
-    margin: 0px;
+    margin: auto;
   }
