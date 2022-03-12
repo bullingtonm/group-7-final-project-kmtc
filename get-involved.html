@@ -65,7 +65,44 @@
         </div>
 
     <!--Mission Statement-->
-
+        <div class="ready-to-volunteer">
+            <div class="volunteer-now-title">
+                <h1>Ready to Volunteer?</h1>
+                <br> <br>
+                <div id="overlay" onclick="off()">
+                    <div id="text">
+                    <h2>Steps to Volunteer</h2>
+                        <ol type="1">
+                            <li>Choose a date that works for you.</li>
+                            <li>Print the Volunteer Permission Form(2021). If also under 18, the NPS Volunteer Service Agreement 2017 also has to be signed by a parent/guardian, </li>
+                            <li>Read over the Current Condition for Volunteers COVID-19</li>
+                            <li>Click to View Volunteer Opportunities on SignUp.com</li>
+                            <li>Fill out Volunteer Permission form</li>
+                        </ol>
+                        <script>
+                            function on() {
+                              document.getElementById("overlay").style.display = "block";
+                            }
+                            
+                            function off() {
+                              document.getElementById("overlay").style.display = "none";
+                            }
+                            </script>
+                    </div>
+                  </div>
+                  
+                  <div>
+                    <button class="quick-guide" onclick="on()">A Quick Guide on How to Sign Up!</button>
+                  </div>
+            </div>
+            <div>
+            <p id="volunteer-now-p">Please print & fill out the forms below:
+                <br> <br> By bringing the completed registration form with you to the work day, you'll help us cut down on registration time and we can get out to the trails faster!</p>
+                <br>
+                <a class="info-button" href="#" target="_blank">Volunteer Permission Form (2021)</a>
+                <a class="info-button" href="#" target="_blank">Current Conditions for Volunteers COVID-19</a>
+            </div>
+        </div>
         <div class="we-need-you">
             <div class="we-need-you-title">
                 <h1>Kennesaw Mountain Needs YOU!</h1>
@@ -80,16 +117,17 @@
                     <li>Vicksburg 176,236</li>
                     <li>Manassas 558,036</li>
                 </ul>
-            <p id="we-need-youp">If you are wondering what your volunteer hours mean to Kennesaw Mountain National Battlefield Park, then the chart below put it into an image. The charts shows our volunteer’s hours since 2002 as of 30 September 2021.</p>
+            <p id="we-need-you-p">If you are wondering what your volunteer hours mean to Kennesaw Mountain National Battlefield Park, then the chart below put it into an image. The charts shows our volunteer’s hours since 2002 as of 30 September 2021.</p>
             </div>
         </div>
-
-    <!--Meet the Board-->
-
-        <div class="the-board">
-            <a href="#">MEET THE BOARD</a>
-        </div>
-    </body>
+        <div class="row">
+            <div class="column">
+              <img src="images/2021-hours-graph-v2 1.png" alt="" style="width:88%">
+            </div>
+            <div class="column">
+              <img src="images/2021-value-of-hours 1.png" alt="" style="width:70%">
+            </div>
+          </div>
 
     <!--Footer-->
 
